@@ -15,27 +15,6 @@ My research focuses on **computer vision** and **medical image analysis**, with 
 
 Beyond my core research, I am passionate about scientific outreach and education. I maintain a technical blog where I share insights from my research and development work, with the goal of making complex machine learning and computer vision concepts accessible to a broader audience.
 
----
-
-## Education
-
-- **2025.04 ~ Present** | Researcher  
-  Center for Computational Sciences (CCS),  
-  University of Tsukuba, Japan
-
-- **2022.04 ~ 2025.03** | Ph.D. in Engineering  
-  International Master’s/Doctoral Program in Intelligent and Mechanical Interaction Systems (IMIS),  
-  University of Tsukuba, Japan
-
-- **2020.04 ~ 2022.03** | M.Eng. in Engineering  
-  Graduate School of Engineering Science,  
-  Kanazawa University, Japan
-
-- **2014.09 ~ 2018.06** | B.Eng. in Computer Science and Technology  
-  College of Computer Science and Technology,  
-  Inner Mongolia University of Technology, China
-
----
 
 ## Research Interests
 
@@ -43,5 +22,11 @@ Beyond my core research, I am passionate about scientific outreach and education
 - Medical Image Analysis (especially for healthcare applications)  
 - Generative Adversarial Networks (GANs)
 
----
 
+## Research Topics
+
+### Medical Image Analysis & AI
+
+### Sports Analytics & AI
+
+### Haptic Technology & AI
