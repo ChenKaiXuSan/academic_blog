@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Two-stage video-based convolutional neural networks for adult spinal deformity classification"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1

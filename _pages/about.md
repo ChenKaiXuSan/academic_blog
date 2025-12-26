@@ -18,10 +18,15 @@ Beyond my core research, I am passionate about scientific outreach and education
 
 ## Research Interests
 
-- Computer Vision  
-- Medical Image Analysis (especially for healthcare applications)  
-- Generative Adversarial Networks (GANs)
+- **Medical Video Analysis** (gait/motion for diagnosis & monitoring)
+- **Sports Video Analytics** (technique evaluation, performance, safety)
+- **3D Human Understanding** (multi-view geometry + deep learning)
+- **Interpretable & Reliable AI** (attention, uncertainty, robustness)
 
+## Current Focus
+- **Video-based clinical motion analysis**: phase-aware gait representation learning and diagnostic classification  
+- **Multi-view 3D pose pipeline**: robust 3D reconstruction under imperfect camera setups  
+- **Attention-guided multimodal fusion**: combining RGB, optical flow, keypoints, and domain priors for better interpretability  
 
 ## Research Topics
 
