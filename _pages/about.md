@@ -15,23 +15,15 @@ My research focuses on **computer vision** and **medical image analysis**, with 
 
 Beyond my core research, I am passionate about scientific outreach and education. I maintain a technical blog where I share insights from my research and development work, with the goal of making complex machine learning and computer vision concepts accessible to a broader audience.
 
+## Research Topics
 
-## Research Interests
+<ul>{% for post in site.research reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
 
-- **Medical Video Analysis** (gait/motion for diagnosis & monitoring)
-- **Sports Video Analytics** (technique evaluation, performance, safety)
-- **3D Human Understanding** (multi-view geometry + deep learning)
-- **Interpretable & Reliable AI** (attention, uncertainty, robustness)
+You can find more details about my research and publications on the [Research](./research/) page.
 
 ## Current Focus
 - **Video-based clinical motion analysis**: phase-aware gait representation learning and diagnostic classification  
 - **Multi-view 3D pose pipeline**: robust 3D reconstruction under imperfect camera setups  
 - **Attention-guided multimodal fusion**: combining RGB, optical flow, keypoints, and domain priors for better interpretability  
-
-## Research Topics
-
-### Medical Image Analysis & AI
-
-### Sports Analytics & AI
-
-### Haptic Technology & AI
