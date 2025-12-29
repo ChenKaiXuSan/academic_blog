@@ -4,6 +4,8 @@ excerpt: This research focuses on interpretable video-based AI for clinical moti
 collection: research
 ---
 
+## Medical Research Overview
+
 My medical research focuses on developing **video-based intelligent systems** for **clinical motion analysis and diagnosis**, with an emphasis on **human gait and posture assessment**. By integrating **computer vision**, **deep learning**, and **multi-view geometry**, I aim to extract clinically meaningful motion representations from ordinary video data and translate them into reliable diagnostic insights.
 
 A central challenge in medical video analysis is the gap between **data-driven models** and **clinical interpretability**. To address this, my work emphasizes **phase-aware and attention-guided modeling**, enabling neural networks to focus on diagnostically relevant body regions and motion phases (e.g., stance/swing cycles in gait). This design not only improves classification performance but also enhances **model transparency**, which is critical for clinical adoption.
