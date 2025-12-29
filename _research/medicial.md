@@ -11,3 +11,9 @@ A central challenge in medical video analysis is the gap between **data-driven m
 Technically, my research explores **multimodal fusion frameworks** that combine RGB video, optical flow, skeletal keypoints, and domain priors into unified learning architectures. I further investigate **multi-view 3D pose reconstruction** and temporal refinement techniques to achieve robust motion estimation under unconstrained camera setups, making the approach applicable to real-world clinical environments.
 
 Ultimately, my goal is to build **interpretable, scalable, and non-invasive medical AI systems** that support clinicians in **screening, diagnosis, and longitudinal monitoring** of movement-related disorders, thereby contributing to improved patient outcomes and more accessible healthcare technologies.
+
+## Research Lists
+1. **Chen K**, Asada T, Ienaga N, et al. Two-stage video-based convolutional neural networks for adult spinal deformity classification[J]. Frontiers in Neuroscience, 2023, 17: 1278584. [Link](/publication/two-stage-ASD-2023)
+2. **Chen K**, Xu J, Asada T, et al. PhaseMix: A Periodic Motion Fusion Method for Adult Spinal Deformity Classification[J]. IEEE Access, 2024. [Link](/publication/phasemix-2024)
+3. Tsukumo T, **Chen K**, Asada T, et al. Spinal Disease Classification Using Deep Learning on Dual-View Videos[C]//Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference. 2025, 2025: 1-5.
+[Link](/publication/dual-view-ASD-2025/)

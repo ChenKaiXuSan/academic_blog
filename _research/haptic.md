@@ -13,3 +13,7 @@ A key challenge addressed in this research is the **mapping between perception a
 Technically, the research investigates **closed-loop haptic systems** that combine real-time sensing, intelligent decision-making, and feedback generation. Machine learning models are employed to adapt haptic responses based on user state, task context, and environmental uncertainty, enabling more effective guidance, training, and interaction.
 
 The ultimate goal is to develop **human-centered haptic interfaces** that enhance perception, motor learning, and safety across applications such as **medical assistance, sports training, and human–machine collaboration**.
+
+## Research Lists
+
+1. Xu J, **Chen K**, Kuroda Y, et al. Feel What You See: A Novel Sensory Interface Linking Visual Heat Cues and Instant Thermal Feedback[M]//Proceedings of the SIGGRAPH Asia 2025 Emerging Technologies. 2025: 1-2. [Link](/publication/feel-what-you-see-2025)
