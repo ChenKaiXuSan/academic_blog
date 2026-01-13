@@ -27,3 +27,9 @@ You can find more details about my research and publications on the [Research](.
 - **Video-based clinical motion analysis**: phase-aware gait representation learning and diagnostic classification  
 - **Multi-view 3D pose pipeline**: robust 3D reconstruction under imperfect camera setups  
 - **Attention-guided multimodal fusion**: combining RGB, optical flow, keypoints, and domain priors for better interpretability  
+
+## 🔥 News
+- 1 paper accepted by SPIE Medical Imaging 2026 as oral.
+- 1 paper accepted by ICEIC 2026 as poster.
+- 1 paper accepted by SIGGRAPH Asia 2025 Emerging Technologies.
+- Received 令和7年度 サイバーメディスン研究センター 若手研究支援プログラム(第1回)(¥1,000,000).
